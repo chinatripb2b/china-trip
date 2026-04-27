@@ -1,0 +1,13 @@
+{
+  "id": "ai_translation_multilingual_1",
+  "pluginKey": "@official-plugins/ai-translate",
+  "pluginVersion": "1.0.4",
+  "name": "智能翻译",
+  "description": "基于 AI 能力，支持多种语言互译，提供准确流畅的译文",
+  "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/fzgeh7nuhfboznulog/ai_translate.svg",
+  "paramsSchema": {},
+  "formValue": {},
+  "createdAt": 1775665444453,
+  "updatedAt": 1775665444453,
+  "createdBy": 6825375049772433410
+}
